@@ -7,6 +7,10 @@ Versions-For-Types is a repository where you can contribute with your own versio
 - [API Web TheServersJars](https://theserversjars.kaoryhosting.xyz/api)
 - [Discord](https://discord.gg/3EebYUyeUX)
 
+## -
+
+Feel free to contribute to this repository by submitting your own versions or helping to update the existing ones. To do so, please make a pull request with your changes.
+
 ## Team
 
 - [**HappyRogelio7**](https://github.com/HappyRogelio7) - Main Developer, Hoster API.
@@ -54,6 +58,6 @@ Versions-For-Types is a repository where you can contribute with your own versio
   ![Node.js Logo](https://example.com/nodejs_logo.png)
   - Description: Node.js is a JavaScript runtime built on Chrome's V8 JavaScript engine. It allows developers to build scalable and efficient network applications and is widely used for server-side scripting.
 
-Feel free to contribute to this repository by submitting your own versions or helping to update the existing ones. To do so, please make a pull request with your changes.
+
 
 Happy coding!
