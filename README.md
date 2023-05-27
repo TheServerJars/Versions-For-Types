@@ -9,7 +9,7 @@ Versions-For-Types is a repository where you can contribute with your own versio
 
 ## Team
 
-- [**HappyRogelio7**](https://github.com/HappyRogelio7) - Main Developer, Hoster API-
+- [**HappyRogelio7**](https://github.com/HappyRogelio7) - Main Developer, Hoster API.
 
 ## Contributors
 
