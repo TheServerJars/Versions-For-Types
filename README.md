@@ -23,17 +23,17 @@ Feel free to contribute to this repository by submitting your own versions or he
 
 - **Spigot**: [Link](https://github.com/spigotmc/spigot-api)
   - Initial Version: 1.8.8
-  - Latest Version: 1.19.4
+  - Latest Version: 1.20.1
   - Description: Spigot is a high-performance Minecraft server software and API, designed to extend and improve the gameplay of the vanilla Minecraft server.
 
 - **Paper**: [Link](https://github.com/PaperMC/Paper)
   - Initial Version: 1.8.8
-  - Latest Version: 1.19.4
+  - Latest Version: 1.20.1
   - Description: Paper is a high-performance fork of the Spigot server software with additional optimizations and features to enhance the Minecraft server experience.
 
 - **Purpur**: [Link](https://github.com/pl3xgaming/Purpur)
   - Initial Version: 1.14.4
-  - Latest Version: 1.19.4
+  - Latest Version: 1.20.1
   - Description: Purpur is a fork of the Paper server software, aiming to provide more configurable settings and performance improvements for Minecraft servers.
 
 - **Velocity**: [Link](https://github.com/VelocityPowered/Velocity)
@@ -44,7 +44,7 @@ Feel free to contribute to this repository by submitting your own versions or he
 
 - **Waterfall**: [Link](https://github.com/PaperMC/Waterfall)
   - Initial Version: 1.7.10
-  - Latest Version: 1.19.4
+  - Latest Version: 1.20.1
   - The Waterfall Lasted Version: 1.19.4
   - Description: Waterfall is a high-performance fork of the BungeeCord proxy server software, designed to improve the performance and stability of Minecraft server networks.
 
