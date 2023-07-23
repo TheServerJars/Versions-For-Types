@@ -22,7 +22,7 @@ Feel free to contribute to this repository by submitting your own versions or he
 ## Versions Avaiable now:
 
 - **Spigot**: [Link](https://github.com/spigotmc/spigot-api)
-  - Initial Version: 1.8.8
+  - Initial Version: 1.7.10
   - Latest Version: 1.20.1
   - Description: Spigot is a high-performance Minecraft server software and API, designed to extend and improve the gameplay of the vanilla Minecraft server.
 
@@ -38,7 +38,7 @@ Feel free to contribute to this repository by submitting your own versions or he
 
 - **Velocity**: [Link](https://github.com/VelocityPowered/Velocity)
   - Initial Version: 1.13.2
-  - Latest Version: 1.19.4
+  - Latest Version: 1.20.1
   - The Velocity Lasted Version: 3.2.0-SNAPSHOT
   - Description: Velocity is a fast, scalable, and feature-rich Minecraft: Java Edition proxy server, allowing players to connect to multiple Minecraft servers seamlessly.
 
@@ -47,6 +47,26 @@ Feel free to contribute to this repository by submitting your own versions or he
   - Latest Version: 1.20.1
   - The Waterfall Lasted Version: 1.19.4
   - Description: Waterfall is a high-performance fork of the BungeeCord proxy server software, designed to improve the performance and stability of Minecraft server networks.
+
+- **CatServer**: [Link](https://github.com/Luohuayu/CatServer)
+  - Initial Version: 1.12.2
+  - Latest Version: 1.18.2
+  - The CatServer Lasted Version: 1.18.2
+  - Description: CatServer is a high performance Bukkit and Forge hybrid minecraft server
+
+- **Magma**: [Link](https://magmafoundation.org/)
+  - Initial Version: 1.12.2
+  - Latest Version: 1.19.3
+  - The Magma Last Version: 1.19.3
+  - Description: Magma is the most powerful Forge server providing you with mods and Plugins using Spigot and Paper for Performance and Stability.
+
+- **NukkitX**: [Link](https://github.com/CloudburstMC/Nukkit)
+  - Initial Version: Unknown
+  - Latest Version: 1.20.1
+  - The Nukkit X Last Version: 1.20.1
+  - Description: NukkitX is the server jar for minecraft bedrock edition support plugins.
+
+
 
 ## Special Thanks
 
