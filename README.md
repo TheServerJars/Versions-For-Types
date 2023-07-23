@@ -43,9 +43,9 @@ Feel free to contribute to this repository by submitting your own versions or he
   - Description: Velocity is a fast, scalable, and feature-rich Minecraft: Java Edition proxy server, allowing players to connect to multiple Minecraft servers seamlessly.
 
 - **Waterfall**: [Link](https://github.com/PaperMC/Waterfall)
-  - Initial Version: 1.7.10
+  - Initial Version: 1.7.10 (Version repositori start in: 1.19.X)
   - Latest Version: 1.20.1
-  - The Waterfall Lasted Version: 1.19.4
+  - The Waterfall Lasted Version: 1.20.1
   - Description: Waterfall is a high-performance fork of the BungeeCord proxy server software, designed to improve the performance and stability of Minecraft server networks.
 
 - **CatServer**: [Link](https://github.com/Luohuayu/CatServer)
