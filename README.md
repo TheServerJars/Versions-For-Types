@@ -13,7 +13,7 @@ Feel free to contribute to this repository by submitting your own versions or he
 
 ## Team
 
-- [**HappyRogelio7**](https://github.com/HappyRogelio7) - Main Developer, Hoster API.
+- [**Happyuky7**](https://github.com/Happyuky7) - Main Developer, Hoster API.
 
 ## Contributors
 
