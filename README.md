@@ -1,3 +1,8 @@
+> [!NOTE]  
+> You can contribute with versions if you wish by connecting me via Discord and making a Pull Request with the new version!
+>
+> Sincerely the Project Author.
+
 # Versions-For-Types
 
 Versions-For-Types is a repository where you can contribute with your own versions or help update the existing ones by making a pull request.
