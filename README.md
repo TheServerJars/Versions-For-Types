@@ -8,8 +8,8 @@
 Versions-For-Types is a repository where you can contribute with your own versions or help update the existing ones by making a pull request.
 
 ## Information:
-- [Web TheServersJars](https://theserversjars.kaoryhosting.xyz/)
-- [API Web TheServersJars](https://theserversjars.kaoryhosting.xyz/api)
+- [Web TheServersJars](https://theserversjars.happy7.xyz/)
+- [API Web TheServersJars](https://theserversjars.happy7.xyz/api)
 - [Discord](https://discord.gg/3EebYUyeUX)
 
 ## -
@@ -53,28 +53,36 @@ Feel free to contribute to this repository by submitting your own versions or he
   - Description: Velocity is a fast, scalable, and feature-rich Minecraft: Java Edition proxy server, allowing players to connect to multiple Minecraft servers seamlessly.
 
 - **Waterfall**: [Link](https://github.com/PaperMC/Waterfall)
+  > [!CAUTION]
+  > Officially it is no longer supported, so this is its last updated update.
+  > NO MAINTENANCE.
   - Initial Version: 1.7.10 (Version repositori start in: 1.19.X)
-  - Latest Version: 1.20.2
-  - The Waterfall Lasted Version: 1.20.2
+  - Latest Version: 1.21 (In this repository 1.20.2)
+  - The Waterfall Lasted Version: 1.21
   - Description: Waterfall is a high-performance fork of the BungeeCord proxy server software, designed to improve the performance and stability of Minecraft server networks.
 
 - **CatServer**: [Link](https://github.com/Luohuayu/CatServer)
+  > [!NOTE]  
+  > It has not received any updates for a long time.
   - Initial Version: 1.12.2
   - Latest Version: 1.18.2
   - The CatServer Lasted Version: 1.18.2
   - Description: CatServer is a high performance Bukkit and Forge hybrid minecraft server
 
-- **Magma**: [Link](https://magmafoundation.org/)
+- **Magma**: [Link](https://github.com/magmamaintained) 
+  > [!CAUTION]
+  > Officially it is no longer supported, so this is its last updated update.
+  > NO MAINTENANCE.
   - Initial Version: 1.12.2
-  - Latest Version: 1.19.3
-  - The Magma Last Version: 1.19.3
+  - Latest Version: 1.20.1
+  - The Magma Last Version: 1.20.1
   - Description: Magma is the most powerful Forge server providing you with mods and Plugins using Spigot and Paper for Performance and Stability.
 
 - **NukkitX**: [Link](https://github.com/CloudburstMC/Nukkit)
   - Initial Version: Unknown
-  - Latest Version: 1.20.2
-  - The Nukkit X Last Version: 1.20.2
-  - Minecraft Bedrock Version: 1.1.20.30
+  - Latest Version: 1.21
+  - The Nukkit X Last Version: 1.21
+  - Minecraft Bedrock Version: Unknown
   - Description: NukkitX is the server jar for minecraft bedrock edition support plugins.
 
 
