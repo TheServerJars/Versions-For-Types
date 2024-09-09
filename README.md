@@ -90,7 +90,7 @@ Feel free to contribute to this repository by submitting your own versions or he
 ## Special Thanks
 
 - **Visual Studio Code**: [Link](https://code.visualstudio.com/)
-  ![Visual Studio Code Logo](https://example.com/vscode_logo.png)
+  ![Visual Studio Code Logo](./vscode.png)
   - Description: Visual Studio Code is a lightweight and powerful source code editor that provides excellent support for various programming languages, debugging, and version control integration.
 
 - **Node.js**: [Link](https://nodejs.org/)
